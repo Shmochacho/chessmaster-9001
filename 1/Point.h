@@ -4,7 +4,7 @@
 class Point
 {
 public:
-	Point(std::string tile);
+	Point(std::string coordinates);
 	Point(int col, int row);
 	Point();
 	~Point();
@@ -12,4 +12,3 @@ protected:
 	int _row;
 	int _col;
 };
-
