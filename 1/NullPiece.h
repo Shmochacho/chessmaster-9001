@@ -4,7 +4,8 @@ class NullPiece :
 	public Piece
 {
 public:
-	NullPiece();
+	NullPiece(Point pt, Board& board);
 	~NullPiece();
+	virtual int isValidMove(std::string dst);
 };
 

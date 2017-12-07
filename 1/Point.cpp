@@ -10,6 +10,11 @@ Point::Point(int row, int col) : _row(row), _col(col)
 {
 }
 
+Point::Point()
+{
+
+}
+
 Point::~Point()
 {
 }

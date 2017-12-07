@@ -1,7 +1,8 @@
 #include "Pawn.h"
 
-Pawn::Pawn(Point pt, Board& board, Player& player) : Piece(pt, board, player)
+Pawn::Pawn(Point pt, Board& board, bool player) : Piece(pt, board, player)
 {
+	_sign = player ? toupper(PawnType) : tolower(PawnType);
 }
 
 Pawn::~Pawn()

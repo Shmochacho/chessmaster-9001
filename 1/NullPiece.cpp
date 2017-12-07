@@ -2,8 +2,9 @@
 
 
 
-NullPiece::NullPiece()
+NullPiece::NullPiece(Point pt, Board& board) : Piece(pt, board)
 {
+	_sign = NullPieceType;
 }
 
 

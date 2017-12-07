@@ -5,7 +5,6 @@
 using namespace std;
 
 
-int x(int x, char y);
 void main()
 {
 	srand(time_t(NULL));
