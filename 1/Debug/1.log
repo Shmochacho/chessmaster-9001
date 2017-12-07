@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(6): error C2061: syntax error: identifier 'Board'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2238: unexpected token(s) preceding ';'
+  Source.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(6): error C2061: syntax error: identifier 'Board'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2238: unexpected token(s) preceding ';'
+  Point.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(6): error C2061: syntax error: identifier 'Point'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(10): error C3646: '_pt': unknown override specifier
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\king.h(8): error C2061: syntax error: identifier 'Point'
+  Piece.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2143: syntax error: missing ';' before '*'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\king.h(6): error C2504: 'Piece': base class undefined
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.cpp(4): error C2789: 'Piece::_sign': an object of const-qualified type must be initialized
+  c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(13): note: see declaration of 'Piece::_sign'
+  Pawn.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2143: syntax error: missing ';' before '*'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\king.h(6): error C2504: 'Piece': base class undefined
+  King.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2143: syntax error: missing ';' before '*'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.h(11): error C2238: unexpected token(s) preceding ';'
+  Board.cpp
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(6): error C2061: syntax error: identifier 'Board'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(11): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2143: syntax error: missing ';' before '&'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(12): error C2238: unexpected token(s) preceding ';'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\king.h(8): error C2061: syntax error: identifier 'Board'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C2259: 'Piece': cannot instantiate abstract class
+  c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): note: due to following members:
+  c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): note: 'int Piece::isValidMove(std::string)': is abstract
+  c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\piece.h(8): note: see declaration of 'Piece::isValidMove'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C2512: 'Piece::Piece': no appropriate default constructor available
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C2143: syntax error: missing ';' before '['
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C3409: empty attribute block is not allowed
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C2143: syntax error: missing ']' before 'constant'
+c:\users\magshimim\documents\_magshimim\_c++\semester 1\assignment 7\hw7_sammy\1\board.cpp(7): error C2059: syntax error: 'constant'
+  Generating Code...
